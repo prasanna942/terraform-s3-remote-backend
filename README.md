@@ -1,4 +1,4 @@
-# Terraform S3 Remote Backend Project
+# Terraform S3 Remote Backend 
 
 ## Project Overview
 This project demonstrates how to configure an AWS S3 bucket as a Terraform remote backend to store Terraform state files securely.
